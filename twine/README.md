@@ -1,5 +1,10 @@
 # Twine
 
+- [ ] internal links
+- [ ] inspirational stories from http://twinery.org/
+- [ ] testimonials
+- [ ] there's more to copy-paste from https://github.com/RavensbourneWebMedia/Interactive-Narratives/blob/2015/sessions/session-05.md#saving-twine-files
+
 <!--![](../assets/twine-logo.svg)-->
 
 > [Twine](http://twinery.org) is an open-source tool for telling interactive, nonlinear stories.
@@ -234,8 +239,9 @@ Think about how your story can be delivered:
 Publish your *twine* to the Web (your personal Rave Web space, [Philomela](http://www.philome.la), [NeoCities](https://neocities.org), anywhere you like..)
 
 
+# Resources
 
-
+* [Twine 2 Guide form the official wiki](http://twinery.org/wiki/twine2:guide)
 
 
 

@@ -1,5 +1,19 @@
-# Web-stories
-Interactive storytelling for the Web, in a day. 
+# Web Stories
+
+Can you type? Do you have a **story to tell**?
+
+That's all you need to get started with Web Stories: a fun, fast-paced workshop that will teach you how to craft an *interactive story* and publish it on the Web for everyone to *play*!
+
+Suitable for people who (think they) have never written a line of *code* before. You may be surprised, and learn a few HTML, CSS and JavaScript tricks in the process :)
+
+You will also get to talk to **[Ravensbourne Web Media ](https://twitter.com/ravewebmedia) students and lecturers**, who will happily answer any questions about the course, its industry ties and how to apply.
+
+
+
+
+
+
+
 
 
 ### License

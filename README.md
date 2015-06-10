@@ -9,6 +9,18 @@ Suitable for people who (think they) have never written a line of *code* before.
 You will also get to talk to **[Ravensbourne Web Media ](https://twitter.com/ravewebmedia) students and lecturers**, who will happily answer any questions about the course, its industry ties and how to apply.
 
 
+### Plan
+
+When | What
+---- | ----
+10:20 - 10:30 | Sign in and welcome to Ravensbourne
+10:30 - 11:00 | What is the Web? <br>What is a story?
+11:00 - 11:30 | Working in groups: story ideas
+11:30 - 12:30 | Twine: a free online tool to make interactive stories 
+12:30 - 13:30 | Lunch `<br>`
+13:30 - 15:00 | Working in groups: craft your story with Twine
+15:00 - 15:30 | Play-testing!
+
 
 
 

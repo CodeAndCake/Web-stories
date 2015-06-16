@@ -6,14 +6,12 @@ That's all you need to get started with Web Stories: a fun, fast-paced workshop 
 
 Suitable for people who (think they) have never written a line of *code* before. You will be surprised, and learn a few HTML, CSS & JavaScript tricks in the process :)
 
-You will also get to talk to **[Ravensbourne Web Media ](https://twitter.com/ravewebmedia) students and lecturers**, who will happily answer any questions about the course, its industry ties and how to apply.
-
 
 ### Plan
 
 When | What
 ---- | ----
-10:20 - 10:30 | Sign in and welcome to Ravensbourne
+10:20 - 10:30 | Sign in and welcome
 10:30 - 11:00 | What is the Web? <br>What is a story?
 11:00 - 11:30 | Working in groups: story ideas
 11:30 - 12:30 | Twine: a free online tool to make interactive stories 

@@ -1,34 +1,46 @@
+- [x] Review intro questions
+- [x] Story examples
+- [x] Story line
+- [ ] Review story ideas
+- [ ] Post-its
+- [ ] Sim intro
+- [ ] Image for main README
+- [ ] Reveal presentation
+- [ ] Whiteboard / flipboard for brainstorming
+
+
+
+
 # Presentation
 
 * [Hands up if you..](#show-of-hands)
 
 * What's [today about](#today)?
 	* When is [lunch](#when-is-lunch)?
-	* [**Roadmap**](#roadmap): what are we going to do and learn?
+	* [Roadmap](#roadmap): what are we going to do and learn?
 * [Nice to meet you](#nice-to-meet-you)
 	* [Two words about ourselves](#two-words-about-ourselves)
 
-* [What is code?](#what-is-code)
-
-* [What is the Web?](#what-is-the-web)
-
 * [What is a story?](#what-is-a-story)
+	* [Story ingredients](#story-ingredients)
+	* [Story lines](#story-lines)
+	* [From text to hypertext](#from-text-to-hypertext)
+	
+* [What is the Web?](#what-is-the-web)
+	* [The story of the Web](#the-story-of-the-web) 
 
-* A *story* written in *code* on the *Web*?!
+* [Your story](#your-story)
+	* [Let's make story**maps**](#story-mapping)
 
-* Form teams
-
-* Let's make <del>story*boards*</del> story**maps**
-
-* Twine <!--links to a different MD-->
-
-
-
-
-- [ ] Code > Web > story: is this the most sensible order?
+* [Twine](../twine/README.md)
 
 
+# Hello
 
+<!--
+I'm Matteo. I teach here..
+I'm ...
+-->
 
 ##  Show of hands
 
@@ -45,9 +57,9 @@ You may think you have never written a line of *code* before.
 
 We're here to demonstrate this is not the case.
 
-- [ ] [You already code](https://medium.com/on-coding/you-can-already-code-you-just-dont-know-it-yet-862044601a5a)
+<!--- [ ] [You already code](https://medium.com/on-coding/you-can-already-code-you-just-dont-know-it-yet-862044601a5a)-->
 
-You will be surprised, and learn a few HTML, CSS and JavaScript tricks in the process :)
+<!--You will be surprised, and learn a few HTML, CSS and JavaScript tricks in the process :)-->
 
 Today is about **storytelling**, with a *pinch of code*.
 
@@ -55,13 +67,11 @@ We will show you a few **coding tricks** and we'll lay the **foundations** of yo
 
 Then you will explore the **potential of the Web** as an open platform for you to **express your creativity**.
 
-By making an interactive story and publishing it to the Web today, you will get to know the *fabrics* of the Web (HTML, CSS and JavaScript), and become **confident in tinkering with code**. To see code as one tool in your **creative toolbox**, and not something scary or too complex.
-
-<!--You may want to become a fashion designer, or a (ask)? However as a **creative professional in the 21st century you can’t be Web-illiterate**. Just like you have to be able to read and write, and do some maths. You need to understand a bit of code. -->
+<!--By making an interactive story and publishing it to the Web today, you will get to know the *fabrics* of the Web (HTML, CSS and JavaScript), and become **confident in tinkering with code**. To see code as one tool in your **creative toolbox**, and not something scary or too complex.-->
 
 You don't have to be a nerd, the Web is for everyone.
 
-Being Web-literate will enable you to use the Web as an **open platform**, a place where you can be a **maker**, instead of a **consumer**. 
+Being *Web-literate* will enable you to use the Web as an **open platform**, a place where you can be a **maker**, instead of a **consumer**. 
 
 <!--Also it's a highly paid industry...--> 
 
@@ -77,10 +87,9 @@ So, we will have **lunch break** at around 12:30 for 1 hour, aiming to wrap up b
 
 When | What
 ---- | ----
-10:20 - 10:30 | Sign in and welcome to Ravensbourne
-10:30 - 11:00 | What is the Web? <br>What is a story?
-11:00 - 11:30 | Working in groups: story ideas
-11:30 - 12:30 | Twine: a free online tool to make interactive stories 
+10:30 - 11:00 | [What is a story?](#what-is-a-story) <br>[What is the Web?](#what-is-the-web)
+11:00 - 11:45 | Working in groups: story ideas
+11:45 - 12:30 | [Twine](../twine/README.md): a free online tool to make interactive stories 
 12:30 - 13:30 | Lunch `<br>`
 13:30 - 15:00 | Working in groups: craft your story with Twine
 15:00 - 15:30 | Play-testing!
@@ -94,10 +103,9 @@ We'd like you to introduce yourself to your neighbour.
  
 We'll then ask you to introduce each other to the rest of the group.
 
-
 1. A bit about yourself
-* Why are you here today?
-* [ ] What is your experience with coding so far?
+* What's your favourite story?
+* What is your experience with coding so far?
 
 You can jot down the answers on post-its and we'll then stick them on the wall...
 
@@ -105,175 +113,105 @@ You can jot down the answers on post-its and we'll then stick them on the wall..
 
 ### Two words about ourselves
 
-* Matteo studied graphic design. He built various social platforms and educational games for the BBC, Science Museum and now teaches at Ravensbourne.
-* [ ] Student 1
-* [ ] Student 2
+<!--
+Matteo introduces Simeron
+Simeron introduces Margot
+Margot introduces Matteo
+-->
 
-**No computer scientists**, learned code by ourselves and built a career on it.
-
-We're all curious and passionate about sharing our knowledge.
-
-We believe **everyone can learn to code** and that's why we're here today. We want to help you find your direction and accelerate your learning process.
-
-
-
-
-
-
-
-
-
-
-
-
-
-## What is code?
-
-Can you fill in the blanks?
-
-Think of words with `code` in them? (*Morse code*, *post code*, *dress code*...)
-
-Code existed **before computers**.
-
-Code is about
-*   transmitting information
-*   giving instructions
-*   **communication**
-
-If I want to talk to my **grandma**, I need to use Italian. To communicate with you, I use English. To **talk to a computer**, I use..
-
-It's **instructions** to a computer: extremely powerful, fundamentally thick.
-
-### Thick machines
-
-Imagine a computer is your most picky/pedantic **friend**: 
-
-* **break down** every step, in order
-* be extremely **precise**
-* it will take you **literally**
-
-![](img/terminal.png)
-
-### What are computers good at?
-
-COMPUTERS → **Computing** (calculating very fast, comparing quantities), **repeating** (boring) tasks endlessly, **executing** instructions, **storing** data. 
-
-### What are you good at?	
-
-PEOPLE → **Spotting patterns** (connecting the dots), thinking **outside the box**, **inventing** new tools and new ways to use old **tools**.
-
-**Code is a tool**, is how we can get computers to do the **heavy lifting for us**, so that we can focus on being **creative**.
-
-PEOPLE are **good at writing code**.
-
-
-### How do you learn to code?
-
-Remember how you learned your first language as a child?
-
-Like **learning a new language**, **translating** your ideas into code.
-
-<!--**Today** you're going to learn **2 new languages**.-->
-
-### Copy + hack
-
-How did you learn your first language as a child?
-
-You learned your first language by *copying* people around you..
-
-How did you learn to **write**?
-
-**Today** you're going to **copy us** for a bit, then **hack** what you copied into something **new**.
-
-
-
-
-
-
-
-
-
-
-## What is the Web?
-
-The Web is not the Internet. If the Internet is a global **brain** (infrastructure), the Web is all the **memories and thoughts** that run on top of it.
-
-### Super-short history
-
-* The Internet started as a military project shortly after WW2. Fearing a soviet nuclear attack, the American army designed a **resilient de-centralised network**: if one *node* goes down, communication can still happen between the other nodes.
-
-* Internet expands beyond the military and is adopted by business and academia. People start sending *emails*. 
-
-* The WWW started as a way of **linking** academic documents together, over **2 computers in Switzerland**. 
-
-* Tim Berners-Lee (TBL or Timbo): 
-
-	> Wouldn't it be great if I could have all my research data always **available** on this computer, and people can just fetch it from there, rather than me having to send emails? In fact, wouldn't it be great if **all the information in the World** could be always available? If every piece of data had an **address** where we can find it, like we find people at certain addresses?
-	
-	This is not an actual quote from TBL, but rather an interpretation of what he may have thought before inventing the WWW
-
-* Timbo's idea: **hypertext + Internet = WWW**, he specified a set of **rules** (HTTP) for computers to exchange documents over the Internet, and a standard **format** for these documents (HTML). 
-
-
-### How does it WWWork?
-
-You enter an address or click somewhere.
-
-The **browser** turns your request into a HTTP request and sends it out to the Internet, to find a resource/page/site that responds to your request.
-
-![](img/browser.png)
-
-If you haven't mistyped your request, this will reach a server on the other end.
-
-A **server** is a computer that is always on. Receives requests and cooks responses, which are sent back to the browser as **HTML+CSS+JS code**.
-
-![](img/server-chef.png)
-
-**RESTaurant analogy**. Sometimes (in the old days) the server sends back a **cooked meal**, in most cases it sends back a list of **ingredients** and a **recipe**.
-
-
-### HTML + CSS + JavaScript
-
-Different **languages**, different **concerns** (or jobs/purposes)
-
-HTML → structure and content 
-
-CSS → style and design 
-
-JS → behaviour and logic
-
-**RECIPE analogy** (ingredients - serving suggestions - method)
-
-_BBC homepage example > disable CSS to show what code does what_
 
 
 
 ## What is a story?
 
-> **Stories** are the most powerful delivery tool for information, more powerful and enduring than any other art form.
+> An **account** of an event or a **series of events**, either true or fictitious.
 
-> From [Storyboarding & UX](http://johnnyholland.org/2011/10/storyboarding-ux-part-1-an-introduction)
+> Definition from the [Free Dictionary ](http://www.thefreedictionary.com/story) 
 
-![](http://johnnyholland.org/wp-content/uploads/storyboarding-freytags-pyramid.jpg)
+..or
 
-Gustav Freytag rationalised stories into five acts: exposition, rising action, climax, falling action (or final suspense and resolution) and dénouement (conclusion).
+> A story is a promise that the end is **worth waiting for**.
+
+> [Mallary Jean Tenore](http://www.poynter.org/how-tos/writing/200728/theres-no-such-thing-as-first-person-omniscient-when-writing-a-personal-story)
+
+### What makes a story?
+
+**Compare**:
+
+1. > A `blog` is a personal journal published on the World Wide Web consisting of discrete entries known as `posts`, typically displayed in reverse chronological order to the most recent post appears first. Blogs are usually the work of a single individual, occasionally of a small group, and often themed on a single subject.
+
+	Is *this* a story?
+
+2. > Meet Danny. She recently created a website where she posts information about her experiences raising a puppy. Her website is an online journal, or `blog`, where she posts a new entry that appears at the top of her page every few days. This stream of entries has enabled her to connect with dog lovers from around the world.
+
+	Is *this* a story?
+
+3. > In 2006 David Maister, an expert in professional service firms, started his `blog`. A blog is like an online journal. David would share his thoughts day-by-day, with his latest ideas appearing at the top of the page. He also encouraged his readers, like me, to leave comments.
+
+	> As I was just starting my business I thought I would email David seeking his help. He called me from Boston the next day and to my surprise he said he would waive his high fees because he now thought of me as a friend after reading my online comments on his blog.
+
+	Is *this* a story?
+
+The examples above are adapted from [Fact telling vs story telling](http://www.anecdote.com/2013/01/fact-telling-versus-story-telling/).
+
+
+### Story ingredients
+
+1. **Time** or **place** marker
+* Things happening (ie **events**) 
+* Something **unexpected**
+
+The third point is what can turn a story into a great story.
+
+#### Just for heroes?
+
+![](../assets/freytags-pyramid.jpg)
+
+[Gustav Freytag](https://en.wikipedia.org/wiki/Gustav_Freytag) rationalised stories into five **acts**: 
+
+* Exposition
+* Rising action
+* Climax
+* Falling action (or final suspense and resolution)
+* Dénouement (conclusion)
+
+This dramatic structure is known as the [Freytag's pyramid](https://en.wikipedia.org/wiki/Dramatic_structure#Freytag.27s_analysis).
+
+This structure has been used for thousands of years across the world to tell epic tales of heroes overcoming huge challenges. See [monomyth](https://en.wikipedia.org/wiki/Monomyth)
+
+However, many people argue that not all stories need a challenged hero. In fact, most stories are not about heroic events, but rather *coincidences*. That is, **something unexpected**.
+
+
+
+<!--- [ ] ["How to tell a story" TED playlist](http://www.ted.com/playlists/62/how_to_tell_a_story)-->
+
+
+### Story lines
+
+Let's make a story. 
+
+1. Line people up on one side of the room. 
+2. On the other side is the *story line*. 
+3. One person at a time moves to the story line and says their story line.   
+	The first two people must either choose the beginning (eg: *Once upon a time*) or the end of the story (eg: *And since then, everyone revered her*).   
+	Everyone can take their spot in between the beginning and the end. 
+4. Every time someone joins the line, the story loops from the beginning.
+
 
 ### Linear vs nonlinear
 
-- [ ] Let's **brainstorm** concepts related to games, stories, what they have in common and what they don't have in common.
+Even though the story we created ends up being **linear**, we could see how at every turn the story could change, taking a completely different path.
 
-# Branching narratives
-
-> If I throw a ball at you, I don’t expect you to drop it and wait until it starts telling stories
-
-[Markku Eskelinen](http://www.gamestudies.org/0101/eskelinen)
-
-<!--Let's **brainstorm** concepts related to games, stories, what they have in common and what they don't have in common.-->
+Let's start thinking about stories like **maps of events**. 
 
 ![](../assets/branches.png)
 
+As storytellers, our job is to join the dots, and guide our listeners/readers/players through one path (or paths).
 
-Before videogames...
+
+### From text to hypertext
+
+Interactive / nonlinear stories existed before videogames:
 
 * **Dada** poems		>	**To make a Dadaist poem**
 	
@@ -306,28 +244,91 @@ Before videogames...
 
 	> A system of **non-sequential writing** that would allow the reader to aggregate meaning in snippets, in the order of his or her choosing, rather than according to a pre-established structure fixed by the author.
 		We're now familiar with hypertext because of the World Wide Web (invented in 1989) but in the 80s it was quite a weird thing, with a literary potential.
-<!--Examples: [Afternoon](http://www.wwnorton.com/college/english/pmaf/hypertext/aft/index.html) and [253](http://www.ryman-novel.com/)-->* **Text Adventures** like [ZORK](http://en.wikipedia.org/wiki/Zork) were massively popular in the 80s.
+<!--Examples: [Afternoon](http://www.wwnorton.com/college/english/pmaf/hypertext/aft/index.html) and [253](http://www.ryman-novel.com/)--><!--* **Text Adventures** like [ZORK](http://en.wikipedia.org/wiki/Zork) were massively popular in the 80s.
 
-	[![](../assets/zork.png)](https://www.youtube.com/watch?v=ikYv6OsgGSk)
+	[![](../assets/zork.png)](https://www.youtube.com/watch?v=ikYv6OsgGSk)-->
 
 <!--[Choose your own adventure](http://www.theguardian.com/commentisfree/2014/oct/20/gamergate-internet-toughest-game-woman-enemies) (sort of) by Charlie Brooker-->
 
-More and more on [Electronic Literature](http://directory.eliterature.org)
+<!--More and more on [Electronic Literature](http://directory.eliterature.org)-->
 
 
 
 
 
-### Storyboarding
 
-> Storyboarding has always been the **low-fidelity prototype of film [and animation]**, bringing together the elements of script, plot, scene, and characters.
+## What is the Web?
 
-#### You don’t need to be good at drawing
+The Web is not the Internet. 
 
-> When thinking about storyboarding, most people get stuck on their (perceived) **inability to draw**.
+If the Internet is a global **brain** (infrastructure), the Web is all the **memories and thoughts** that run on top of it.
 
-- [ ] Let's call it `story-mapping`
+### The story of the Web
+
+* The Internet started as a military project shortly after WW2. Fearing a soviet nuclear attack, the American army designed a **resilient de-centralised network**: if one *node* goes down, communication can still happen between the other nodes.
+
+* Internet expands beyond the military and is adopted by business and academia. People start sending *emails*. 
+
+* The WWW started as a way of **linking** academic documents together, over **2 computers in Switzerland**. 
+
+* Tim Berners-Lee (TBL or Timbo): 
+
+	> Wouldn't it be great if I could have all my research data always **available** on this computer, and people can just fetch it from there, rather than me having to send emails? In fact, wouldn't it be great if **all the information in the World** could be always available? If every piece of data had an **address** where we can find it, like we find people at certain addresses?
+	
+	This is not an actual quote from TBL, but rather an interpretation of what he may have thought before inventing the WWW
+
+	![](../assets/www-proposal.gif)
+
+* Timbo's idea: **hypertext + Internet = WWW**. He *specified* a set of **rules** (HTTP) for computers to exchange documents over the Internet, and a standard **format** for these documents (HTML). 
+
+* Timbo invented the WWW in **1989**. The rest is history. 
+
+	![](../assets/web-graph.gif)
 
 
+## Your story
+
+Today you'll make a **hypertext**, a small-scale version of the Web.
+
+You'll then publish your story on the Web for everyone to *play*!
+
+> This is for everyone
+
+> Timbo, London 2012
+
+In its short history, the Web has given voice to millions.
+
+The Web is an amazing **open platform** for you to express your creativity and tell the stories that matter to you.
+
+Today you are going to be a **maker** instead of a **consumer**. 
 
 
+### Story-mapping
+
+Form groups of 2, aka pairs.
+
+Come up with at least **2 story ideas**. After lunch you'll develop one of them as a hypertext.
+
+* Think about your story as a **map**. 
+* Jot down all the *points* in your story and then start *linking* them.
+* Remember: it's about **choices**. 
+* Make sure there are several paths, not just a single line.
+
+They can be your own ideas, remixes of existing narratives, or if you're stuck you can pick from these examples:
+
+1. Remix a fairy tale
+2. Turn a videogame sequence into a story (eg: Bioshock, Assassin's Creed, Mario, Minecraft, Flappy Bird, Tetris)
+3. Bird conspiracy (thanks Margot)
+4. A conversation going wrong
+5. A deadly day: whatever happens, after 24h you die (or win the lottery)
+6. A dog's life
+7. Simeron's relationship
+8. Story of a migrant
+9. Superhero not so super
+10. Current affairs: what if Scotland broke free?
+11. What if David Cameron was an alien?
+12. Pick a story from the news and re-invent it. Or tell it from a different moral perspective.
+13. Spy story?
+14. Chase: cat and mouse.
+15. You wake up one day and you are a factory farm cow.
+16. You wake up in a deserted Ravensbourne after the apocalypse.

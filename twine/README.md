@@ -12,7 +12,7 @@ OPTIONAL
 
 # Twine
 
-![](../assets/twine-logo.svg)
+<!--![](../assets/twine-logo.svg)-->
 
 > [Twine](http://twinery.org) is an open-source tool for telling interactive, nonlinear stories.
 
@@ -343,7 +343,7 @@ Two very important things to remember, though.
 
 	Publish your twines by clicking the `Publish to File` button
 	
-	![](../assets/twine-publish.jpg)
+	![](../assets/twine-publish.png)
 
 2. Anyone who can use this browser can see and make changes to your work. So if you've got a *nosey kid brother*, look into setting up a separate profile for yourself.
 

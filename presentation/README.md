@@ -1,14 +1,24 @@
+<!--
+
+ESSENTIAL 
+
 - [x] Review intro questions
 - [x] Story examples
 - [x] Story line
+- [ ] Snow White with vars and ifs..
 - [ ] Review story ideas
-- [ ] Post-its
-- [ ] Sim intro
+- [x] Post-its
+- [ ] Margot intro 
+- [ ] Whiteboard / flipboard for brainstorming?
+
+
+OPTIONAL
+
 - [ ] Image for main README
+- [ ] Links for main README
 - [ ] Reveal presentation
-- [ ] Whiteboard / flipboard for brainstorming
 
-
+-->
 
 
 # Presentation
@@ -277,13 +287,13 @@ If the Internet is a global **brain** (infrastructure), the Web is all the **mem
 	
 	This is not an actual quote from TBL, but rather an interpretation of what he may have thought before inventing the WWW
 
-	![](../assets/www-proposal.gif)
+	[![](../assets/www-proposal.gif)](http://info.cern.ch/Proposal.html)
 
 * Timbo's idea: **hypertext + Internet = WWW**. He *specified* a set of **rules** (HTTP) for computers to exchange documents over the Internet, and a standard **format** for these documents (HTML). 
 
 * Timbo invented the WWW in **1989**. The rest is history. 
 
-	![](../assets/web-graph.gif)
+	[![](../assets/web-graph.gif)](https://en.wikipedia.org/wiki/File:Internet_map_plain_1024.png)
 
 
 ## Your story

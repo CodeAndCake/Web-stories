@@ -6,8 +6,10 @@ That's all you need to get started with Web Stories: a fun, fast-paced workshop 
 
 Suitable for people who (think they) have never written a line of *code* before. You will be surprised, and learn a few HTML, CSS & JavaScript tricks in the process :)
 
+<!--
 ![]()
-<!-- image of a twine map -->
+image of a twine map 
+-->
 
 
 ### Plan

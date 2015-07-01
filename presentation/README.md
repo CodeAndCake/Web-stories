@@ -65,7 +65,7 @@ I'm ...
 
 You may think you have never written a line of *code* before.
 
-We're here to demonstrate this is not the case.
+<!--We're here to demonstrate this is not the case.-->
 
 <!--- [ ] [You already code](https://medium.com/on-coding/you-can-already-code-you-just-dont-know-it-yet-862044601a5a)-->
 
@@ -75,13 +75,13 @@ Today is about **storytelling**, with a *pinch of code*.
 
 We will show you a few **coding tricks** and we'll lay the **foundations** of your stories together. 
 
-Then you will explore the **potential of the Web** as an open platform for you to **express your creativity**.
+Then you will explore the **potential of the Web** as an open platform for you to **express your creativity**, a place where you can be a **maker**, instead of a **consumer**.
 
 <!--By making an interactive story and publishing it to the Web today, you will get to know the *fabrics* of the Web (HTML, CSS and JavaScript), and become **confident in tinkering with code**. To see code as one tool in your **creative toolbox**, and not something scary or too complex.-->
 
-You don't have to be a nerd, the Web is for everyone.
+<!--You don't have to be a nerd, the Web is for everyone.-->
 
-Being *Web-literate* will enable you to use the Web as an **open platform**, a place where you can be a **maker**, instead of a **consumer**. 
+<!--Being *Web-literate* will enable you to use the Web as an **open platform**-->
 
 <!--Also it's a highly paid industry...--> 
 
@@ -117,18 +117,11 @@ We'll then ask you to introduce each other to the rest of the group.
 * What's your favourite story?
 * What is your experience with coding so far?
 
-You can jot down the answers on post-its and we'll then stick them on the wall...
+<!--You can jot down the answers on post-its and we'll then stick them on the wall...-->
 
 
 
 ### Two words about ourselves
-
-<!--
-Matteo introduces Simeron
-Simeron introduces Margot
-Margot introduces Matteo
--->
-
 
 
 

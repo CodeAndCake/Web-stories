@@ -6,7 +6,7 @@ ESSENTIAL
 - [x] Story examples
 - [x] Story line
 - [ ] Snow White with vars and ifs..
-- [ ] Review story ideas
+- [x] Review story ideas
 - [x] Post-its
 - [ ] Margot intro 
 - [ ] Whiteboard / flipboard for brainstorming?
@@ -327,18 +327,15 @@ Come up with at least **2 story ideas**. After lunch you'll develop one of them 
 They can be your own ideas, remixes of existing narratives, or if you're stuck you can pick from these examples:
 
 1. Remix a fairy tale
-2. Turn a videogame sequence into a story (eg: Bioshock, Assassin's Creed, Mario, Minecraft, Flappy Bird, Tetris)
-3. Bird conspiracy (thanks Margot)
-4. A conversation going wrong
-5. A deadly day: whatever happens, after 24h you die (or win the lottery)
-6. A dog's life
-7. Simeron's relationship
-8. Story of a migrant
-9. Superhero not so super
-10. Current affairs: what if Scotland broke free?
-11. What if David Cameron was an alien?
-12. Pick a story from the news and re-invent it. Or tell it from a different moral perspective.
-13. Spy story?
-14. Chase: cat and mouse.
-15. You wake up one day and you are a factory farm cow.
-16. You wake up in a deserted Ravensbourne after the apocalypse.
+* Turn a videogame sequence into a story (eg: Bioshock, Assassin's Creed, Mario, Minecraft, Flappy Bird, Tetris)
+* Bird conspiracy (thanks Margot)
+* A conversation going wrong
+* Current affairs: what if Scotland broke free?
+* A deadly day: whatever happens, after 24h you die (or win the lottery)
+* A dog's life
+* Pick a story from the news and re-invent it. Or tell it from a different moral perspective.
+* Story of a migrant
+* Superhero not so super
+* Spy story?
+* What if David Cameron was an alien?
+* You wake up in a deserted Ravensbourne after the apocalypse.

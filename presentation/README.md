@@ -56,7 +56,7 @@ I'm ...
 
 * Who's read a story before today?
 * Who's **written** a story before today?
-* Who's plaid a game before today?
+* Who's played a game before today?
 * Who's **made** a game before today?
 * Who's done any coding before today? 
 

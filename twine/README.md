@@ -4,6 +4,7 @@ ESSENTIAL
 
 - [ ] CSS
 - [ ] JS 
+- [ ] bit.ly/twine-tutorial
 
 
 OPTIONAL

@@ -172,3 +172,21 @@ What else you can use a story for?
 Examples of unconventional storytelling:
 
 -->
+
+# Story lines
+
+[![](../../assets/queue.jpg)](https://www.flickr.com/photos/hktang/4243300265)
+
+Let's make a collective story. 
+
+1. Line people up on one side of the room. 
+2. On the other side is the *story line*. 
+3. One person at a time walks to the *story line* and adds their bit to the story.     
+
+	The first two people must either choose the beginning (eg: *Once upon a time...*) or the end of the story (eg: *...and since then, everyone revered her*).  
+   
+	Everyone can add their bit in between the beginning and the end. 
+4. Every time someone joins the *story line*, the story loops from the beginning.
+
+
+

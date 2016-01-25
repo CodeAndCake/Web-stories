@@ -1,19 +1,24 @@
-# Today, Tuesday 26th of January
-
 <!--
 
-Managing expectations:
- not coding for coding's sake, some title etc
- coding as a tool in your creative toolbox 
- introduce Twine, but not use it today
- homework: storymap, play a Twine, prepare assets
+- [x] Managing expectations:
+ 			not coding for coding's sake, some title etc
+ 			coding as a tool in your creative toolbox 
+ 			introduce Twine, but not use it today
+ 			
+- [ ] homework 
+			storymap
+			play a Twine
+			prepare assets
 
 -->
+
+# Today, Tuesday 26th of January
 
 1. What's [this workshop about](#hands-up-if-you)?
 * [What is a story?](#what-is-a-story) 
 * Story lines
 * Your story
+
 
 # Hands up if you...
 
@@ -61,5 +66,6 @@ Today, we are going to start designing and making **interactive stories**.
 
 We will use a tool called [Twine](../../twine) to **code** your interactive stories and publish them on the Web.
 
-We will show you a few **coding tricks** and we'll lay the **foundations** of your stories together. 
+We will show you a few **coding tricks** and lay the foundations of **your stories** together. 
+
 

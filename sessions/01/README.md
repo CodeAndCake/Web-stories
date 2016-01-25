@@ -22,8 +22,8 @@
 * [What is a story](#what-is-a-story)?
 * [What makes a story](#what-makes-a-story)?
 * [How does a story unfold](#how-does-a-story-unfold)? 
-* Story lines
-* Non-linear stories
+* [Story lines](#story-lines)
+* [Non-linear stories](#non-linear-stories)
 * Your story
 
 
@@ -173,6 +173,7 @@ Examples of unconventional storytelling:
 
 -->
 
+
 # Story lines
 
 [![](../../assets/queue.jpg)](https://www.flickr.com/photos/hktang/4243300265)
@@ -189,4 +190,19 @@ Let's make a collective story.
 4. Every time someone joins the *story line*, the story loops from the beginning.
 
 
+# Non-linear stories
+
+Even though the *story lines* we created were **linear** we could see how at every turn the story could change, taking a completely different path.
+
+Whilst playing [*Story lines*](#story-lines) your mind was probably buzzing with **what if** questions.
+
+One of the powers of **code** is to enable **non-linear storytelling**. You can play out all your *what-ifs*. 
+
+In fact `if this then that` is a major coding principle. Algorithms at their core are made up of lots of `if this then that` blocks.
+
+Let's start thinking about stories like **maps of events**. 
+
+[![](../../assets/should-you-work-for-free.jpg)](http://www.shouldiworkforfree.com/)
+
+Our job as **storytellers** is to join the dots, and guide our listeners/readers/players through various paths.
 

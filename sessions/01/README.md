@@ -59,7 +59,7 @@ But what is the **purpose**?
 
 Coding for coding's sake has little purpose. 
 
-![](https://upload.wikimedia.org/wikipedia/commons/b/b7/Bindfaden.jpg)
+[![](https://upload.wikimedia.org/wikipedia/commons/b/b7/Bindfaden.jpg)](https://en.wikipedia.org/wiki/Twine#/media/File:Bindfaden.jpg)
 
 <!-- story of Aimee's knitting experiments -->
 
@@ -92,19 +92,19 @@ We will show you a few **coding tricks** and lay the foundations of **your stori
 
 **Compare**:
 
-1. > A `blog` is a personal journal published on the World Wide Web consisting of discrete entries known as `posts`, typically displayed in reverse chronological order to the most recent post appears first. Blogs are usually the work of a single individual, occasionally of a small group, and often themed on a single subject.
+#### 	Is *this* a story?
 
-	Is *this* a story?
+> A `blog` is a personal journal published on the World Wide Web consisting of discrete entries known as `posts`, typically displayed in reverse chronological order to the most recent post appears first. Blogs are usually the work of a single individual, occasionally of a small group, and often themed on a single subject.
 
-2. > Meet Danny. She recently created a website where she posts information about her experiences raising a puppy. Her website is an online journal, or `blog`, where she posts a new entry that appears at the top of her page every few days. This stream of entries has enabled her to connect with dog lovers from around the world.
+#### 	Is *this* a story?
 
-	Is *this* a story?
+> Meet Danny. She recently created a website where she posts information about her experiences raising a puppy. Her website is an online journal, or `blog`, where she posts a new entry that appears at the top of her page every few days. This stream of entries has enabled her to connect with dog lovers from around the world.
 
-3. > In 2006 David Maister, an expert in professional service firms, started his `blog`. A blog is like an online journal. David would share his thoughts day-by-day, with his latest ideas appearing at the top of the page. He also encouraged his readers, like me, to leave comments.
+#### 	Is *this* a story?
 
-	> As I was just starting my business I thought I would email David seeking his help. He called me from Boston the next day and to my surprise he said he would waive his high fees because he now thought of me as a friend after reading my online comments on his blog.
+> In 2006 David Maister, an expert in professional service firms, started his `blog`. A blog is like an online journal. David would share his thoughts day-by-day, with his latest ideas appearing at the top of the page. He also encouraged his readers, like me, to leave comments.
 
-	Is *this* a story?
+> As I was just starting my business I thought I would email David seeking his help. He called me from Boston the next day and to my surprise he said he would waive his high fees because he now thought of me as a friend after reading my online comments on his blog.
 
 The examples above are adapted from [Fact telling vs story telling](http://www.anecdote.com/2013/01/fact-telling-versus-story-telling/).
 

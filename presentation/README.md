@@ -1,7 +1,5 @@
 <!--
 
-ESSENTIAL 
-
 - [x] Review intro questions
 - [x] Story examples
 - [x] Story line
@@ -10,13 +8,6 @@ ESSENTIAL
 - [x] Post-its
 - [ ] Margot intro 
 - [ ] Whiteboard / flipboard for brainstorming?
-
-
-OPTIONAL
-
-- [ ] Image for main README
-- [ ] Links for main README
-- [ ] Reveal presentation
 
 -->
 

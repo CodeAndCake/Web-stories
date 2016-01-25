@@ -12,7 +12,7 @@ Suitable for people who (think they) have never written a line of **code** befor
 
 When | What
 ---- | ----
-Tuesday<br>26.01 | What is a story? <br>What is the Web?<br> Introducing [Twine](twine), a free online tool to make *interactive stories*
+[Tuesday<br>26.01](sessions/01) | What is a story? <br>What is the Web?<br> Introducing **Twine**, a tool to make *interactive stories* on the Web
 Thursday<br>28.01 | What is *your* story? <br>Craft your story with Twine <br>Introducing HTML & CSS, the languages of the Web
 Saturday<br>28.01 | Tweak your story <br>Play-testing!
 

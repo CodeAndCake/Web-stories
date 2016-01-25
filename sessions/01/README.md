@@ -24,7 +24,7 @@
 * [How does a story unfold](#how-does-a-story-unfold)? 
 * [Story lines](#story-lines)
 * [Non-linear stories](#non-linear-stories)
-* Your story
+* [Story-mapping](#story-mapping)
 
 
 # Hands up if you...
@@ -206,3 +206,27 @@ Let's start thinking about stories like **maps of events**.
 
 Our job as **storytellers** is to join the dots, and guide our listeners/readers/players through various paths.
 
+
+# Story-mapping
+
+Form teams of 2, aka pairs.
+
+Come up with at least **2 story ideas**.
+
+* Think about your story as a **map**. 
+* Jot down all the *points* in your story and then start *linking* them.
+* Remember: it's about **choices**. 
+* Make sure there are several paths, not just a single line.
+
+They can be your own ideas, remixes of existing stories, or if you're stuck you can take inspiration from these story starters:
+
+1. Remix a fairy tale.
+* Turn a videogame into a story.
+* It's 2020 and it's very warm, globally.
+* A conversation going wrong.
+* A cow's life.
+* Pick a story from the news and re-invent it. Or tell it from a different moral perspective.
+* Story of a migrant.
+* Superhero not so super.
+* What if David Cameron was an alien?
+* You wake up in a deserted Ravensbourne after the apocalypse.

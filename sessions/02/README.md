@@ -1,3 +1,11 @@
+Start by introducing ourselves: what's our story? Then ask students to introduce their neighbour (what's their story?)
+
+
+
+CSS > https://www.glorioustrainwrecks.com/node/5163
+
+
+
 ### From text to hypertext
 
 Interactive / nonlinear stories existed before videogames:

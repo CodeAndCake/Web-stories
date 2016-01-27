@@ -165,7 +165,8 @@ What else you can use a story for?
 * A **case study** that tells the story of your project
 * A **storyboard** that presents your research
 * A story that illustrates a **poem**
-* A story that lets you **explore a space**
+* A story that lets you **explore a space**, like [this](http://www.moma.org/interactives/exhibitions/2012/centuryofthechild/#/timeline/power-play)
+* A story that raises awareness about an issue and invites people to take action, like [this](http://buntspenden.bleech.de/en/)
 
 <!-- 
 

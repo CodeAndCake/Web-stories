@@ -1,12 +1,26 @@
-Start by introducing ourselves: what's our story? Then ask students to introduce their neighbour (what's their story?)
+# Web stories, day 2
+
+### Today, Thursday 28th of January
+
+1. Introductions: what's our story? 
+* From text to hypertext: what is the Web?
+* Meet Twine and play around with it. 
 
 
+# Nice to meet you
 
-CSS > https://www.glorioustrainwrecks.com/node/5163
+### What's our story? 
 
+* Aimee
+* Matteo
 
+### What's your story?
 
-### From text to hypertext
+In pairs, ask your neighbours to tell you their story and then tell it to everyone else.
+
+<!--CSS > https://www.glorioustrainwrecks.com/node/5163-->
+
+# From text to hypertext
 
 Interactive / nonlinear stories existed before videogames:
 
@@ -29,11 +43,11 @@ Interactive / nonlinear stories existed before videogames:
 
 	Derived from a set of ten basic sonnets, they are printed on card with **each line on a separated strip**, like a heads-bodies-and-legs book. All ten sonnets have the same rhyme scheme and employ the same rhyme sounds. As a result, any line from a sonnet can be combined with any from the other nine, giving 1014 (= 100,000,000,000,000) different poems. Working twenty-four hours a day, it would you take some 140,000,000 years to read them all.
 	
-	![](../assets/100-billion-poems.png)
+	![](../../assets/100-billion-poems.png)
 
 * [Gamebooks](http://samizdat.cc/cyoa), aka *Choose Your Own Adventure* in the 1970s and 80s
 
-	[![](../assets/ufo-acorn-nodes.png)](http://samizdat.cc/cyoa)
+	[![](../../assets/ufo-acorn-nodes.png)](http://samizdat.cc/cyoa)
 	
 	You can find many of them on [Project AON](http://www.projectaon.org/en/Main/Books)
 
@@ -43,41 +57,36 @@ Interactive / nonlinear stories existed before videogames:
 		We're now familiar with hypertext because of the World Wide Web (invented in 1989) but in the 80s it was quite a weird thing, with a literary potential.
 <!--Examples: [Afternoon](http://www.wwnorton.com/college/english/pmaf/hypertext/aft/index.html) and [253](http://www.ryman-novel.com/)--><!--* **Text Adventures** like [ZORK](http://en.wikipedia.org/wiki/Zork) were massively popular in the 80s.
 
-	[![](../assets/zork.png)](https://www.youtube.com/watch?v=ikYv6OsgGSk)-->
+	[![](../../assets/zork.png)](https://www.youtube.com/watch?v=ikYv6OsgGSk)-->
 
 <!--[Choose your own adventure](http://www.theguardian.com/commentisfree/2014/oct/20/gamergate-internet-toughest-game-woman-enemies) (sort of) by Charlie Brooker-->
 
 <!--More and more on [Electronic Literature](http://directory.eliterature.org)-->
 
-
-
-
-
-
-## What is the Web?
+### What is the Web?
 
 The Web is not the Internet. 
 
 If the Internet is a global **brain** (infrastructure), the Web is all the **memories and thoughts** that run on top of it.
 
-### The story of the Web
+#### The story of the Web
 
-* The Internet started as a military project shortly after WW2. Fearing a soviet nuclear attack, the American army designed a **resilient de-centralised network**: if one *node* goes down, communication can still happen between the other nodes.
+The Internet started as a military project shortly after WW2. Fearing a soviet nuclear attack, the American army designed a **resilient de-centralised network**: if one *node* goes down, communication can still happen between the other nodes.
 
-* Internet expands beyond the military and is adopted by business and academia. People start sending *emails*. 
+Internet expands beyond the military and is adopted by business and academia. People start sending *emails*. 
 
-* The WWW started as a way of **linking** academic documents together, over **2 computers in Switzerland**. 
+The WWW started as a way of **linking** academic documents together, over **2 computers in Switzerland**. 
 
-* Tim Berners-Lee (TBL or Timbo): 
+Tim Berners-Lee (TBL or Timbo): 
 
-	> Wouldn't it be great if I could have all my research data always **available** on this computer, and people can just fetch it from there, rather than me having to send emails? In fact, wouldn't it be great if **all the information in the World** could be always available? If every piece of data had an **address** where we can find it, like we find people at certain addresses?
+> Wouldn't it be great if I could have all my research data always **available** on this computer, and people can just fetch it from there, rather than me having to send emails? In fact, wouldn't it be great if **all the information in the World** could be always available? If every piece of data had an **address** where we can find it, like we find people at certain addresses?
 	
-	This is not an actual quote from TBL, but rather an interpretation of what he may have thought before inventing the WWW
+This is not an actual quote from TBL, but rather an interpretation of what he may have thought before inventing the WWW
 
-	[![](../assets/www-proposal.gif)](http://info.cern.ch/Proposal.html)
+[![](../../assets/www-proposal.gif)](http://info.cern.ch/Proposal.html)
 
-* Timbo's idea: **hypertext + Internet = WWW**. He *specified* a set of **rules** (HTTP) for computers to exchange documents over the Internet, and a standard **format** for these documents (HTML). 
+Timbo's idea: **hypertext + Internet = WWW**. He *specified* a set of **rules** (HTTP) for computers to exchange documents over the Internet, and a standard **format** for these documents (HTML). 
 
-* Timbo invented the WWW in **1989**. The rest is history. 
+Timbo invented the WWW in **1989**. The rest is history. 
 
-	[![](../assets/web-graph.gif)](https://en.wikipedia.org/wiki/File:Internet_map_plain_1024.png)
+[![](../../assets/web-graph.gif)](https://en.wikipedia.org/wiki/File:Internet_map_plain_1024.png)

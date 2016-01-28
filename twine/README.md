@@ -17,7 +17,7 @@ OPTIONAL
 
 > [Twine](http://twinery.org) is an open-source tool for telling interactive, nonlinear stories.
 
-> You don't need to write any *code* to create a simple story with Twine, but you can extend your stories with variables, conditional logic, images, CSS, and JavaScript when you're ready.
+> You don't need to write any *code* to create a simple story with Twine, but you can extend your stories with *variables*, *conditional logic*, images, CSS, and JavaScript when you're ready.
 
 Here's a quick guide for you to learn the ropes of Twine
 
@@ -38,7 +38,7 @@ Here's a quick guide for you to learn the ropes of Twine
 
 1. Go to [twinery.org](http://twinery.org) and click on [**Use it online**](http://twinery.org/2).
 	
-	![](../assets/twine-download.png)
+	<!--![](../assets/twine-download.png)-->
 	  
 	If you want to make twines offline, you can download the Twine 2 desktop app.
 2. Click on `+ Story` to create a new story.

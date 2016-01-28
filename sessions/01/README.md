@@ -16,7 +16,9 @@
 
 -->
 
-# Today, Tuesday 26th of January
+# Web stories, day 1
+
+### Today, Tuesday 26th of January
 
 1. [What is this workshop about](#hands-up-if-you)?
 * [What is a story](#what-is-a-story)?

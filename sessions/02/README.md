@@ -90,3 +90,25 @@ Timbo's idea: **hypertext + Internet = WWW**. He *specified* a set of **rules** 
 Timbo invented the WWW in **1989**. The rest is history. 
 
 [![](../../assets/web-graph.gif)](https://en.wikipedia.org/wiki/File:Internet_map_plain_1024.png)
+
+
+# Twine
+
+See [this introduction](../../twine)!
+
+### Your turn
+
+Try to keep each passage to one or two paragraphs.
+
+Don't provide many choices, provide *interesting choices*.
+
+Think about how your story can be delivered:
+
+* Spatial? Metaphysical? Puzzle?
+* Self-aware / self referential?
+* First, second, third person?
+* Multiple endings? 
+* Multiple beginnings?
+* Do you control an avatar?
+* Does it have graphics? 
+* What's the relation between graphics and text?

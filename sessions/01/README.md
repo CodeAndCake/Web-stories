@@ -16,7 +16,7 @@
 
 -->
 
-# Web stories, day 1
+# Web stories day 1
 
 ### Today, Tuesday 26th of January
 

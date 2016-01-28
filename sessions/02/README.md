@@ -1,4 +1,4 @@
-# Web stories, day 2
+# Web stories day 2
 
 ### Today, Thursday 28th of January
 

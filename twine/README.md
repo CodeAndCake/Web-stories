@@ -24,8 +24,8 @@ Here's a quick guide for you to learn the ropes of Twine
 1. [Getting started](#getting-started)
 * Building blocks: [passages](#editing-passages) and [links](#linking-passages)
 * [External links](#external-links), [images](#images), [comments](#comments) and [other amenities](#other-amenities) (maps, videos etc) you can pull in from the Web
-* [Custom styles](#custom-styles) aka `CSS`, for instance to change fonts and colours
 * [Saving](#saving-your-work) and [publishing your stories](#publishing-your-stories)
+* [Custom styles](#custom-styles) aka `CSS`, for instance to change fonts and colours
 * Getting your story to remember stuff: [variables](#variables)
 * Asking [questions](#asking-questions)
 * Shuffling things up: [randomness](#randomness)
@@ -130,6 +130,35 @@ Here's how to:
 * [embed a Google map](https://support.google.com/maps/answer/3544418?hl=en)
 * [embed a Youtube video](https://support.google.com/youtube/answer/171780?hl=en-GB)
 * [embed a tweet](https://support.twitter.com/articles/20169559-embedding-a-tweet-on-your-website-or-blog)
+
+### Saving your work
+
+Your work is saved only in your browser.
+
+That means you don't need to create an account to use Twine, and everything you create isn't stored on a server somewhere else: it stays right in your browser.
+
+Two very important things to remember, though. 
+
+1. Since your work is saved only in your browser, if you clear its saved data, then you'll lose your work! Not good. 
+
+	Publish your twines by clicking the `Publish to File` button
+	
+	![](../assets/twine-publish.png)
+
+2. Anyone who can use this browser can see and make changes to your work. So if you've got a *nosey kid brother*, look into setting up a separate profile for yourself.
+
+### Publishing your stories
+
+You can publish your twines anywhere the Web! 
+
+This is because twines are made of just HTML, CSS and JavaScript: the three universal languages of the Web, which any browser understands.
+
+1. Follow the [instructions above](#saving-your-work) to publish your twine to an HTML file
+* Find that HTML file and upload it somewhere on the Web
+
+	You can use a free service like [Philomela](http://www.philome.la) or [NeoCities](https://neocities.org)
+	
+ 	...or, if you have access to a Web hosting service, you can `ftp` your twine there.
 
 ### Custom styles
 
@@ -319,35 +348,6 @@ repeat the commands in [ ] square brackets
 	(if: $timeLeft < 0)[(goto: "End")]
 ]  
 ```
-
-### Saving your work
-
-Your work is saved only in your browser.
-
-That means you don't need to create an account to use Twine, and everything you create isn't stored on a server somewhere else: it stays right in your browser.
-
-Two very important things to remember, though. 
-
-1. Since your work is saved only in your browser, if you clear its saved data, then you'll lose your work! Not good. 
-
-	Publish your twines by clicking the `Publish to File` button
-	
-	![](../assets/twine-publish.png)
-
-2. Anyone who can use this browser can see and make changes to your work. So if you've got a *nosey kid brother*, look into setting up a separate profile for yourself.
-
-### Publishing your stories
-
-You can publish your twines anywhere the Web! 
-
-This is because twines are made of just HTML, CSS and JavaScript: the three universal languages of the Web, which any browser understands.
-
-1. Follow the [instructions above](#saving-your-work) to publish your twine to an HTML file
-* Find that HTML file and upload it somewhere on the Web
-
-	You can use a free service like [Philomela](http://www.philome.la) or [NeoCities](https://neocities.org)
-	
- 	...or, if you have access to a Web hosting service, you can `ftp` your twine there
 
 ### Custom behaviour
 

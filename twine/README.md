@@ -23,16 +23,15 @@ Here's a quick guide for you to learn the ropes of Twine
 
 1. [Getting started](#getting-started)
 * Building blocks: [passages](#editing-passages) and [links](#linking-passages)
-* [External links](#external-links), [images](#images), [comments](#comments) and [other amenities](#other-amenities)  (maps, videos etc) you can pull in from the Web
+* [External links](#external-links), [images](#images), [comments](#comments) and [other amenities](#other-amenities) (maps, videos etc) you can pull in from the Web
+* [Custom styles](#custom-styles) aka `CSS`, for instance to change fonts and colours
+* [Saving](#saving-your-work) and [publishing your stories](#publishing-your-stories)
 * Getting your story to remember stuff: [variables](#variables)
 * Asking [questions](#asking-questions)
 * Shuffling things up: [randomness](#randomness)
 * Taking decisions: [branching logic](#branching-logic)
 * Making time tick: [timers](#timers)
-* [Custom styles](#custom-styles) aka `CSS`, for instance to change fonts and colours
 * [Custom behaviour](#custom-behaviour) aka `JavaSscript`
-* [Saving](#saving-your-work) and [publishing your stories](#publishing-your-stories)
-
 
 ### Getting started
 
@@ -67,7 +66,6 @@ Twine uses a *coding language* called [**TwineMarkup**](http://twine2.neocities.
 
 For example, the `*` character at the beginning of a line will make that line bulleted (aka `unordered list item`)
 
-
 ### Linking passages
 
 To set your story in motion you create clickable **hyperlinks between passages**. 
@@ -101,7 +99,6 @@ You can use HTML to include external links (aka `hyperlinks`)
 
 This will display the text `Baddeo` as a link to `https://twitter.com/baddeo`. Are you following?
 
-
 ### Images
 
 You can use HTML to include images
@@ -118,7 +115,6 @@ You can *hotlink* images from the Web, provided they're licensed for re-use.
 
 If you use your own images, you can upload them to services like [IMGUR](http://imgur.com/), [Giphy](http://giphy.com/), Dropbox, Google Drive.. it doesn't matter where you upload them, as long as they're *public* on the Web and you get a *link* for them.
 
-
 ### Comments
 
 ```html
@@ -126,7 +122,6 @@ If you use your own images, you can upload them to services like [IMGUR](http://
 ```
 
 Even though people playing your twines can't see them, comments are extremely useful for you and your fellow storytellers to annotate your stories.
-
 
 ### Other amenities
 
@@ -136,6 +131,30 @@ Here's how to:
 * [embed a Youtube video](https://support.google.com/youtube/answer/171780?hl=en-GB)
 * [embed a tweet](https://support.twitter.com/articles/20169559-embedding-a-tweet-on-your-website-or-blog)
 
+### Custom styles
+
+You can use `CSS` to change the visual style of your twines.
+
+For instance, let's make links pink:
+
+1. Click the `Play` button to preview your twine in a new browser tab
+* Right-click on the element you want to change, and choose `Inspect Element`.   
+  
+	![](../assets/inspect-element.png)
+	
+	You can learn more about this very useful method [here](https://developer.chrome.com/devtools/docs/dom-and-styles#inspecting-elements). It works on every Web page, allowing you to inspect and (temporarily) change its HTML and CSS!
+	
+* Find the property you want to change, eg `color`
+* Copy-paste it into your story stylesheet
+
+	![](../assets/twine-edit-css.png)	
+	```css
+	.enchantment-link, tw-link {
+	    color: #ff00ff;
+	}    
+	```
+
+The same method is valid for all story elements.
  
 ### Variables
 
@@ -301,37 +320,6 @@ repeat the commands in [ ] square brackets
 ]  
 ```
 
-### Custom styles
-
-You can use `CSS` to change the visual style of your twines.
-
-For instance, let's make links pink:
-
-1. Click the `Play` button to preview your twine in a new browser tab
-* Right-click on the element you want to change, and choose `Inspect Element`.   
-  
-	![](../assets/inspect-element.png)
-	
-	You can learn more about this very useful method [here](https://developer.chrome.com/devtools/docs/dom-and-styles#inspecting-elements). It works on every Web page, allowing you to inspect and (temporarily) change its HTML and CSS!
-	
-* Find the property you want to change, eg `color`
-* Copy-paste it into your story stylesheet
-
-	![](../assets/twine-edit-css.png)	
-	```css
-	.enchantment-link, tw-link {
-	    color: #ff00ff;
-	}    
-	```
-
-The same method is valid for all story elements.
-
-### Custom behaviour
-
-![](../assets/twine-edit-js.png)
-
-
-
 ### Saving your work
 
 Your work is saved only in your browser.
@@ -348,7 +336,6 @@ Two very important things to remember, though.
 
 2. Anyone who can use this browser can see and make changes to your work. So if you've got a *nosey kid brother*, look into setting up a separate profile for yourself.
 
-
 ### Publishing your stories
 
 You can publish your twines anywhere the Web! 
@@ -362,28 +349,9 @@ This is because twines are made of just HTML, CSS and JavaScript: the three univ
 	
  	...or, if you have access to a Web hosting service, you can `ftp` your twine there
 
+### Custom behaviour
 
-
-<!--
-
-# Your turn
-
-Try to keep each passage to one or two paragraphs.
-
-Don't provide many choices, provide *interesting choices*.
-
-Think about how your story can be delivered:
-
-* Spatial? Metaphysical? Puzzle?
-* Self-aware / self referential?
-* First, second, third person?
-* Multiple endings? 
-* Multiple beginnings?
-* Do you control an avatar?
-* Does it have graphics? 
-* What's the relation between graphics and text?
-
--->
+![](../assets/twine-edit-js.png)
 
 
 # Resources

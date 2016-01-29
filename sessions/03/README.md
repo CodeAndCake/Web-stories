@@ -49,4 +49,23 @@ Bringing storytelling and coding together to make something that is useful to yo
 -->
 
 
+# Crash course
 
+We're going to learn how to:
+
+* Write HTML to **structure** your content 
+	* Create several types of **text** (paragraphs, headings, quotes)
+	* Create **links** to other Web pages (eg: your blog)
+	* Add **images** (eg: of your work)
+	* **Embed** other media (eg: YouTube videos, tweets etc.)
+	 
+* Write CSS to **style** your content
+	* Design your page's **typography**
+	* Set your page's **colours**
+	* Get images to fill up the whole browser's window, without loosing their original aspect ratio
+	* Position elements in the horizontal and vertical centre of the page
+	* Create a *curtain reveal* effect
+
+Here's [all the code for the finished thing](../../resources/css-curtain).
+
+- [ ] Animated gif

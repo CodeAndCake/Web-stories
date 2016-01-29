@@ -66,6 +66,50 @@ We're going to learn how to:
 	* Position elements in the horizontal and vertical centre of the page
 	* Create a *curtain reveal* effect
 
-Here's [all the code for the finished thing](../../resources/css-curtain).
-
+- [ ] Here's [all the code for the finished thing]().
 - [ ] Animated gif
+
+### Step by step
+
+Go to [thimble.mozilla.org](https://thimble.mozilla.org/) and sign up (it's free). Then log in and click on `Start a project from scratch`.
+
+It's good practice to build the **HTML** first, and then make it _stylish_ with CSS. Aka *content first*.
+
+1. Thimble created an HTML skeleton for us, containing the basic building blocks: `html`, `head` and `body` tags.
+* In the `head` we can change the `title`.
+* We're dividing our page into sections, so let's create a few empty `section` tags.
+	
+	```html
+	<section></section>
+	<section></section>
+	<section></section>
+	<section></section>
+	<section></section>
+	``` 
+* In the first section we'll add a *heading* and a *sub-heading*. These will be the most important pieces of information in your page.
+
+	```html
+	<h1>Your name</h2>
+	<h2>Your specialties, eg: film maker</h2>
+	```
+
+
+
+
+
+
+ 
+ an image, which could serve as a logo  
+  
+	```html
+	<div class="logo">
+		<img src="images/logo.png" alt="Describe this image">
+	</div>
+	```
+* We'll have two sections with textual content, so let's write something in there.  
+  
+	Copy-paste something appropriate from the Web (using `right-click` > `Inspect Element` and then copying the HTML code for the part(s) you want to use in your page).
+
+
+
+- [ ] cropping images and saving them for Web

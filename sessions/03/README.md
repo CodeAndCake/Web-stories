@@ -80,8 +80,10 @@ Then log in and click on `Start a project from scratch`.
 It's good practice to build the **HTML** first, and then make it _stylish_ with CSS. Aka *content first*.
 
 1. Thimble created an HTML skeleton for us, containing the basic **building blocks**: `html`, `head` and `body` tags.
+	
 	<!---->
 * In the `head` we can change the `title`.  
+	
 	<!---->
 * We're dividing our page into sections, so let's create a few empty `section` tags inside the `body`.
 	

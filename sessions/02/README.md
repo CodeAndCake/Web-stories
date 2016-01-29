@@ -26,7 +26,7 @@ Interactive / nonlinear stories existed before videogames!
 ![](../../assets/dadaist-poem.jpg)
 >	**To make a Dadaist poem**
 
-> * Take a newspaper.
+> 1. Take a newspaper.
 > * Take a pair of scissors.
 > * Choose an article as long as you are planning to make your poem.
 > * Cut out the article.

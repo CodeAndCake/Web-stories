@@ -11,9 +11,6 @@
 
 ### What's our story? 
 
-* Aimee
-* Matteo
-
 ### What's your story?
 
 In pairs, ask your neighbours to tell you their story and then tell it to everyone else.
@@ -22,39 +19,48 @@ In pairs, ask your neighbours to tell you their story and then tell it to everyo
 
 # From text to hypertext
 
-Interactive / nonlinear stories existed before videogames:
+Interactive / nonlinear stories existed before videogames!
 
-* **Dada** poems		>	**To make a Dadaist poem**
+### **Dada** poems
+
+![](../../assets/dadaist-poem.jpg)
+>	**To make a Dadaist poem**
+
+> * Take a newspaper.
+> * Take a pair of scissors.
+> * Choose an article as long as you are planning to make your poem.
+> * Cut out the article.
+> * Then cut out each of the words that make up this article and put them in a bag.
+> * Shake it gently.
+> * Then take out the scraps one after the other in the order in which they left the bag.
+> * Copy conscientiously.
+> * The poem will be like you.
+> * And here you are a writer, infinitely original and endowed with a sensibility that is charming though beyond the understanding of the vulgar.[Tristan Tzara, 1920](http://en.wikipedia.org/wiki/Tristan_Tzara)
+
+### [The Garden of Forking Paths](http://en.wikipedia.org/wiki/The_Garden_of_Forking_Paths) 
+
+Jorge Luis Borges (1941)	In the short story a character named Ts'ui Pên tells everybody that he wanted to write a book and build a labyrinth. Nobody ever found the labyrinth, only a very confusing and contradictory book. We then discover that the book *is* the labyrinth. In the fictional book, every chapter is followed by "every" possible continuation.
+
+### [Hundred Thousand Billion Poems](http://www.bevrowe.info/Queneau/QueneauRandom_v4.html) 
+
+Raymond Queneau (1961)
+
+Derived from a set of ten basic sonnets, they are printed on card with **each line on a separated strip**, like a heads-bodies-and-legs book. All ten sonnets have the same rhyme scheme and employ the same rhyme sounds. As a result, any line from a sonnet can be combined with any from the other nine, giving 1014 (= 100,000,000,000,000) different poems. Working twenty-four hours a day, it would you take some 140,000,000 years to read them all.
 	
-	> * Take a newspaper.
-	> * Take a pair of scissors.
-	> * Choose an article as long as you are planning to make your poem.
-	> * Cut out the article.
-	> * Then cut out each of the words that make up this article and put them in a bag.
-	> * Shake it gently.
-	> * Then take out the scraps one after the other in the order in which they left the bag.
-	> * Copy conscientiously.
-	> * The poem will be like you.
-	> * And here you are a writer, infinitely original and endowed with a sensibility that is charming though beyond the understanding of the vulgar.		[Tristan Tzara, 1920](http://en.wikipedia.org/wiki/Tristan_Tzara)
+![](../../assets/100-billion-poems.png)
 
-* Jorge Luis Borges **[The Garden of Forking Paths](http://en.wikipedia.org/wiki/The_Garden_of_Forking_Paths)** (1941)		In the short story a character named Ts'ui Pên tells everybody that he wanted to write a book and build a labyrinth. Nobody ever found the labyrinth, only a very confusing and contradictory book. We then discover that the book *is* the labyrinth. In the fictional book, every chapter is followed by "every" possible continuation.
+### [Gamebooks](http://samizdat.cc/cyoa)
 
-* Raymond Queneau **[Hundred Thousand Billion Poems](http://www.bevrowe.info/Queneau/QueneauRandom_v4.html)** (1961)
+Aka *Choose Your Own Adventure* in the 1970s and 80s
 
-	Derived from a set of ten basic sonnets, they are printed on card with **each line on a separated strip**, like a heads-bodies-and-legs book. All ten sonnets have the same rhyme scheme and employ the same rhyme sounds. As a result, any line from a sonnet can be combined with any from the other nine, giving 1014 (= 100,000,000,000,000) different poems. Working twenty-four hours a day, it would you take some 140,000,000 years to read them all.
+[![](../../assets/ufo-acorn-nodes.png)](http://samizdat.cc/cyoa)
 	
-	![](../../assets/100-billion-poems.png)
+You can find many of them on [Project AON](http://www.projectaon.org/en/Main/Books)
 
-* [Gamebooks](http://samizdat.cc/cyoa), aka *Choose Your Own Adventure* in the 1970s and 80s
+### **HyperText** is a word [Ted Nelson](http://en.wikipedia.org/wiki/Ted_Nelson) coined in the 60s. 
 
-	[![](../../assets/ufo-acorn-nodes.png)](http://samizdat.cc/cyoa)
-	
-	You can find many of them on [Project AON](http://www.projectaon.org/en/Main/Books)
-
-* **HyperText** is a word [Ted Nelson](http://en.wikipedia.org/wiki/Ted_Nelson) coined in the 60s. 
-
-	> A system of **non-sequential writing** that would allow the reader to aggregate meaning in snippets, in the order of his or her choosing, rather than according to a pre-established structure fixed by the author.
-		We're now familiar with hypertext because of the World Wide Web (invented in 1989) but in the 80s it was quite a weird thing, with a literary potential.
+> A system of **non-sequential writing** that would allow the reader to aggregate meaning in snippets, in the order of his or her choosing, rather than according to a pre-established structure fixed by the author.
+	We're now familiar with hypertext because of the World Wide Web (invented in 1989) but in the 80s it was quite a weird thing, with a literary potential.
 <!--Examples: [Afternoon](http://www.wwnorton.com/college/english/pmaf/hypertext/aft/index.html) and [253](http://www.ryman-novel.com/)--><!--* **Text Adventures** like [ZORK](http://en.wikipedia.org/wiki/Zork) were massively popular in the 80s.
 
 	[![](../../assets/zork.png)](https://www.youtube.com/watch?v=ikYv6OsgGSk)-->

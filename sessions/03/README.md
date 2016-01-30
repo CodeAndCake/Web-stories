@@ -10,6 +10,8 @@
 
 # Web stories day 3
 
+You can find this tutorial is online at **bit.ly/web-stories-day-3**.
+
 ### Today, Saturday 30th of January
 
 1. [Recap](#recap) of what we have learned so far
@@ -68,7 +70,7 @@ We're going to learn how to:
 	* Position elements in the horizontal and vertical centre of the page
 	* Create a *curtain reveal* effect
 
-Here's [the **demo**](https://d157rqmxrxj6ey.cloudfront.net/aimeebethmj/28941/). Cick `Remix` to reveal all its **source code**.
+The **demo** is at [j.mp/html-css-portfolio-demo](http://j.mp/html-css-portfolio-demo). Click `Remix` to reveal all its **source code**.
 
 ## Step by step
 
@@ -407,7 +409,7 @@ Add `background-attachment: fixed;` to `.full`
 }
 ```
 
-Here's [the **demo**](https://d157rqmxrxj6ey.cloudfront.net/aimeebethmj/28941/). Cick `Remix` to reveal all its **source code**.	
+This **demo** is at [j.mp/html-css-portfolio-demo](http://j.mp/html-css-portfolio-demo). Click `Remix` to reveal all its **source code**.	
 
 
 

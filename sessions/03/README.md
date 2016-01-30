@@ -13,7 +13,7 @@
 ### Today, Saturday 30th of January
 
 1. [Recap](#recap) of what we have learned so far
-* [Crash course](#html-css-crash-course) in **HTML & CSS** to build an one-page **portfolio**
+* [Crash course](#html--css-crash-course) in **HTML & CSS** to build an one-page **portfolio**
 * **Publish** your portfolio online
 
 

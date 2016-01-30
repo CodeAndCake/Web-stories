@@ -68,7 +68,7 @@ We're going to learn how to:
 	* Position elements in the horizontal and vertical centre of the page
 	* Create a *curtain reveal* effect
 
-Here's [all the code for the finished thing](https://d157rqmxrxj6ey.cloudfront.net/aimeebethmj/28941/)
+Here's [the **demo**](https://d157rqmxrxj6ey.cloudfront.net/aimeebethmj/28941/). Cick `Remix` to reveal all its **source code**.
 
 ## Step by step
 
@@ -407,7 +407,7 @@ Add `background-attachment: fixed;` to `.full`
 }
 ```
 
-	
+Here's [the **demo**](https://d157rqmxrxj6ey.cloudfront.net/aimeebethmj/28941/). Cick `Remix` to reveal all its **source code**.	
 
 
 

@@ -10,7 +10,7 @@
 
 # Web stories day 3
 
-You can find this tutorial is online at **bit.ly/web-stories-day-3**.
+You can find this tutorial is online at **bit.ly/web-stories-day-3**
 
 ### Today, Saturday 30th of January
 
@@ -358,7 +358,7 @@ To center the image, we create two classes `h-centred` and `v-centred`.
 	display: flex;
 	justify-content: center;
 }
-v-centred
+.v-centred
 {
 	display: flex;
 	align-items: center;

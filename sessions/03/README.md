@@ -404,8 +404,8 @@ Add `background-attachment: fixed;` to `.full`
 .full
 {
 	height: 100%;
- 		background-size: cover;
- 		background-attachment: fixed;
+ 	background-size: cover;
+ 	background-attachment: fixed;
 }
 ```
 

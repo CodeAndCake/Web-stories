@@ -13,7 +13,7 @@
 ### Today, Saturday 30th of January
 
 1. [Recap](#recap) of what we have learned so far
-* [Crash course](#crash-course) in **HTML & CSS** to build an one-page **portfolio**
+* [Crash course](#html-css-crash-course) in **HTML & CSS** to build an one-page **portfolio**
 * **Publish** your portfolio online
 
 
@@ -51,7 +51,7 @@ Bringing storytelling and coding together to make something that is useful to yo
 -->
 
 
-# Crash course
+# HTML & CSS crash course
 
 We're going to learn how to:
 
@@ -76,7 +76,7 @@ Go to [thimble.mozilla.org](https://thimble.mozilla.org/) and sign up (it's free
 
 Then log in and click on `Start a project from scratch`.
 
-### Content first
+### 1. Content first
 
 It's good practice to build the **HTML** first, and then make it _stylish_ with CSS. Aka *content first*.
 
@@ -181,9 +181,9 @@ Let's add our **contact details** to the final section.
 </section>
 ```
 
-### Style later
+### 2. Style later
 
-Now the fun part: **CSS**.
+Now the fun part: **CSS**!
 
 #### Normalize
 

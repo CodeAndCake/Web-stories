@@ -232,4 +232,11 @@ They can be your own ideas, remixes of existing stories, or if you're stuck you 
 * Story of a migrant.
 * Superhero not so super.
 * What if David Cameron was an alien?
-* You wake up in a deserted Ravensbourne after the apocalypse.
+* You wake up in a deserted Ravensbourne after the apocalypse.  
+
+
+### License
+
+[![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License ](http://creativecommons.org/licenses/by-nc-sa/4.0)
